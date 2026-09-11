@@ -53,10 +53,13 @@ Employee1.SendSMS("How are you?");
 ```
 
 ## Output
-https://output.png
+
+![Program Output](output.png)
 
 ## Requirements
+
 Visual Studio 2022 or any C++ compiler supporting C++11 or later.
 
 ## Author
+
 Abdulrahman Al-Haritani
